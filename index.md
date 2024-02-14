@@ -4,4 +4,4 @@ title: Lerntagebuch
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Schön, dass Du da bist. Ich schreibe hier über meine Erkenntnisse im Kurs **Bibliotheks- und Archivinformatik** im FS 2024 an der Fachhochschule Graubünden.
