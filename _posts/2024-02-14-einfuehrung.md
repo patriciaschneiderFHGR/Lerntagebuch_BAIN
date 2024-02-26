@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel"
+title: "Einführungsartikel (Entwurf)"
 date: 2024-02-14
 ---
 
