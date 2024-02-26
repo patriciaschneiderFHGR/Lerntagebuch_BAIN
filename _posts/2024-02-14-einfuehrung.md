@@ -18,7 +18,7 @@ Kann mir noch nicht unter allen angekündigten Inhalten des Moduls etwas vorstel
 Leistungsnachweis "Lerntagebuch", habe ich bisher noch nie gemacht. Ich freue mich auf die Herausforderung, die gelernten Inhalte regelmässig und zeitnah zu dokumentieren, kritisch zu reflektieren und in einen Kontext zu setzen. Ich erhoffe mir , dass mein Lernen dadurch effektiver wird und die Inhalte besser haften bleiben. Ich werde versuchen für jede Lerneinheit jeweils ungefähr die gleichen Fragen zu beantworten, die meinen Blogbeiträgen eine grobe Struktur geben:
 
 - Was habe ich heute gelernt?
-- Was war für micht neu?
+- Was war für mich neu?
 - Bin ich mit den Arbeitsaufträgen klar gekommen - was fiel leicht, womit hatte ich Schwierigkeiten?
 - Wie habe ich die Aufgaben gelöst?
 - Wo kann ich das Gelernte anwenden?
