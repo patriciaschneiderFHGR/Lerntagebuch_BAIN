@@ -15,8 +15,8 @@ Ein wesentlicher Bestandteil des Moduls ist der Leistungsnachweis in Form eines 
 
 - Was habe ich heute gelernt?
 - Was war für mich neu?
-- Bin ich mit den Arbeitsaufträgen klar gekommen - was fiel leicht, womit hatte ich Schwierigkeiten?
 - Wie habe ich die Aufgaben gelöst?
+- Bin ich mit den Arbeitsaufträgen klar gekommen - was fiel leicht, womit hatte ich Schwierigkeiten?
 - Wo kann ich das Gelernte anwenden?
 - Was habe ich nicht verstanden?
 - Welche (Zusatz-)Informationen fehlen mir, was ist noch offen?
