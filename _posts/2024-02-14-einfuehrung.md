@@ -1,10 +1,7 @@
 ---
-title: "Einführungsartikel"
+title: "Einführungsartikel: Wo bin ich gestartet?"
 date: 2024-02-14
 ---
-
-Wo bin ich gestartet?
-
 In meinem beruflichen Alltag in einer öffentlichen Bibliothek sind Informatik und Technik allgegenwärtig, wenn auch oft unsichtbar im Hintergrund. Der Besuch des Moduls "Bibliotheks- und Archivinformatik" eröffnet für mich eine spannende Möglichkeit, tiefere Einblicke in die theoretischen und praktischen Grundlagen dieses Fachgebiets zu gewinnen. Diese Gelegenheit möchte ich nutzen, um meine bisherige Anwendungserfahrung mit fundiertem Wissen zu untermauern und mein Verständnis für die zugrunde liegenden Systeme zu vertiefen. Das Modul bietet mir die Chance, Theorie und Praxis zu verknüpfen. Besonders interessiert mich, wie Software funktioniert und wie Metadaten modelliert werden. Diese theoretischen Impulse erhoffe ich mir, in meiner täglichen Arbeit anwenden zu können.
 
 Meine Arbeit in der Bibliothek ist geprägt von der Nutzung veralteter Bibliothekssysteme, die zahlreiche Workarounds erfordern. Diese Herausforderungen haben mein Interesse geweckt, die technischen Hintergründe besser zu verstehen. Bisher kenne ich vor allem die Anwenderseite, während mir die strukturellen und technischen Details oft verborgen blieben. Zusätzlich stehen wir als Bibliothek zur Zeit auf der Zielgerade der Einführung eines neuen Bibliothkessystems. Die Umstellung von OCLC (SISIS) zu Quira (Axiell) steht Ende dieses Jahres bevor. Zur Zeit laufen verschiedene Tests zur Datenmigration um festzustellen, welche Daten vor und welche nach der Migration bearbeitet werden müssen
